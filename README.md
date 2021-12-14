@@ -1,4 +1,4 @@
-# dokku plausible analytics
+# dokku plausible
 
 Unofficial package to spin up [Plausible Analytics](https://plausible.io/) on a Dokku host.
 
